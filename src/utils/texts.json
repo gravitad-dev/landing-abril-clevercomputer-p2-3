@@ -6,64 +6,64 @@
         "title": "Border-IA",
         "bloglink": "/#",
         "link1": "/#sobre",
-        "item1": "Sobre",
+        "item1": "About",
         "link2": "/#recursos",
-        "item2": "Recursos",
+        "item2": "Resources",
         "link3": "/#depoimentos",
-        "item3": "Depoimentos",
-        "button": "COMUNIDADE"
+        "item3": "Testimonials",
+        "button": "COMMUNITY"
         
     }, 
     "section-two": { 
         "hero": "",
-        "title": "Acelere sua criação",
-        "title2": "de interfaces",
-        "body": "Com o Border-IA, você poderá dar vida às suas ideias em tempo recorde.  ",
+        "title": "Innovating the Future with ",
+        "title2": "Intelligent Solutions.",
+        "body": "We are pioneers in integrating artificial intelligence with digital marketing and infrastructure solutions.  ",
         "bread": "FIGMA PLUGIN",
-        "button": "USAR NO FIGMA",
+        "button": "USE ON FIGMA",
         "image": "https://res.cloudinary.com/db60chvpz/image/upload/v1714140733/zuurp7eifgk7k8ct4iml.png"
     },
     "section-three": {
         "interfaceImage": "",
-        "picture1": "https://res.cloudinary.com/db60chvpz/image/upload/v1714460202/jd3jl8wcm0a5mwrvrhdp.png",
-        "picture2": "https://res.cloudinary.com/db60chvpz/image/upload/v1714540694/opernqppin57raje8gsy.png"
+        "picture1": "https://res.cloudinary.com/db60chvpz/image/upload/v1717140787/zdia1lhttr2eabf8qoug.png",
+        "picture2": "https://res.cloudinary.com/db60chvpz/image/upload/v1717140787/zdia1lhttr2eabf8qoug.png"
         
     },
     "section-four": {
         "recursos": "",
-        "breadcrum" : "RECURSOS",
-        "title": "Como o Border-IA te",
-        "title2": "ajuda no dia a dia",
+        "breadcrum" : "RESOURCES",
+        "title": "What Makes ",
+        "title2": "Us Different",
         "item1": {
             "id":1,
             "logo": "",
-            "title": "Removedor de fundo",
-            "description": "Torne o fundo transparente em qualquer foto."
+            "title": "AI-Powered Digital Marketing",
+            "description": "Transform your marketing strategies with advanced AI algorithms that optimize campaigns, enhance customer engagement, and boost ROI."
         },
         "item2": {
             "id":2,
             "logo": "",
-            "title": "Gerador de texto",
-            "description": "Gere textos de espaço reservado para suas interfaces."
+            "title": "Marketing Automation",
+            "description": "Automate your marketing processes to save time, reduce errors, and improve efficiency. From lead generation to customer retention, we’ve got you covered."
         },
         "item3": {
             "id":3,
             "logo": "",
-            "title": "Amplificador de imagem",
-            "description": "Amplie imagens e melhore sua resolução."
+            "title": "Infrastructure Solutions",
+            "description": "Build a resilient and scalable digital infrastructure with our expert services, ensuring your business is always ready to grow and adapt."
         },
         "item4": {
             "id":4,
             "logo": "",
-            "title": "Gerador de avatar",
-            "description": "Crie instantaneamente avatares de usuários."
+            "title": "Data Analytics",
+            "description": "Unlock the potential of your data with our comprehensive analytics services, providing insights that drive informed decision-making."
         }
     },
     "section-five": {
         "about": "",
-        "title": "MAIS DE +5.000 DESIGNERS JÁ ESTÃO UTILIZADO",
-        "subtitle": "Concentre-se no design, não na rotina",
-        "breadcrum": "USAR NO FIGMA",
+        "title": "MORE THAN 5,000 DESIGNERS ARE ALREADY USING IT",
+        "subtitle": "Feel free to adjust or expand upon these texts to better fit your specific needs and brand voice!",
+        "breadcrum": "USE ON FIGMA",
         "body": "We are an independent IT consultancy, set up in 1991, operating across Europe with over 700 highly qualified people delivering for our clients every day. Since then, we have been working with clients from many sectors. Retail, engineering, pharmaceutical, real estate, transportation, utilities, financial, are some of them. We are Digital Transformation Specialists who strive to be a partner of choice.",
         "body2": "",
         "item1": {
@@ -115,8 +115,8 @@
             "phone": "1-232-3434 (Main)"
         },
         "section-2": {
-            "item1": "Desenvolvido por: ",
-            "item2": "Jonas Milan & André Valentim",
+            "item1": "",
+            "item2": "Copyright All rights Reserved. 2024",
             "item3": "BLOG",
             "item4": "ABOUT",
             "item5": "SERVICES"

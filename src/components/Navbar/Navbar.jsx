@@ -26,11 +26,14 @@ const Navbar = () => {
       }}
     >
       <div
-        className="font-bold flex items-center gap-4"
-        style={{ color: "#FFFFFF", fontSize: "25px" }}
+        className="font-bold flex items-center gap-4 pt-2"
+        style={{ color: "#FFFFFF", fontSize: "25px", height: "fit-content" }}
       >
-        <img src={acelerate_logo} alt="logo" width={50} />
-        {!isSmallScreen && texts["section-one"].title}
+        <img
+          src="https://res.cloudinary.com/db60chvpz/image/upload/v1717141705/xmmqv1s6b0uuozbwyr5o.png"
+          alt="logo"
+          width={270}
+        />
       </div>
 
       {/* Renderizar elementos del menú solo si la vista no es móvil */}

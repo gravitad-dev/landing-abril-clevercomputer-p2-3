@@ -13,11 +13,14 @@ function Footer() {
             style={{ maxWidth: "600px" }}
           >
             <div
-              className="font-bold flex items-center gap-4"
+              className="font-bold flex items-center gap-4 "
               style={{ color: "#FFFFFF", fontSize: "25px" }}
             >
-              <img src={acelerate_logo} alt="logo" width={50} />
-              {texts["section-one"].title}
+              <img
+                src="https://res.cloudinary.com/db60chvpz/image/upload/v1717141817/ufpdeuy9zo1wyyo2eulw.png"
+                alt="logo"
+                width={240}
+              />
             </div>
           </div>
 
