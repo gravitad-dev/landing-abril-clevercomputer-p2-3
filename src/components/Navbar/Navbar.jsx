@@ -26,13 +26,13 @@ const Navbar = () => {
       }}
     >
       <div
-        className="font-bold flex items-center gap-4 pt-2"
+        className="font-bold flex items-center gap-4 pt-[6px]"
         style={{ color: "#FFFFFF", fontSize: "25px", height: "fit-content" }}
       >
         <img
           src="https://res.cloudinary.com/db60chvpz/image/upload/v1717141705/xmmqv1s6b0uuozbwyr5o.png"
           alt="logo"
-          width={270}
+          className="h-[50px]"
         />
       </div>
 
