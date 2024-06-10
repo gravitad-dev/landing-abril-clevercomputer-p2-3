@@ -1,5 +1,4 @@
 import texts from "../../utils/texts.json";
-import acelerate_logo from "../../../public/acelerate_logo.png";
 
 function Footer() {
   return (
@@ -13,14 +12,28 @@ function Footer() {
             style={{ maxWidth: "600px" }}
           >
             <div
-              className="font-bold flex items-center gap-4 "
+              className="font-bold flex items-center gap-4"
               style={{ color: "#FFFFFF", fontSize: "25px" }}
             >
               <img
-                src="https://res.cloudinary.com/db60chvpz/image/upload/v1717141817/ufpdeuy9zo1wyyo2eulw.png"
+                src="https://res.cloudinary.com/db60chvpz/image/upload/v1717141705/xmmqv1s6b0uuozbwyr5o.png"
                 alt="logo"
-                width={240}
+                width={250}
               />
+            </div>
+            <div className="text-white mt-10">
+              <ul className="text-sm">
+                <li className="mb-3">
+                  <span className="  transition duration-150 ease-in-out">
+                    {texts["section-seven"]["section-1"].delivery}
+                  </span>
+                </li>
+                <li className="mb-3">
+                  <span className=" transition duration-150 ease-in-out">
+                    {texts["section-seven"]["section-1"].oficinas}
+                  </span>
+                </li>
+              </ul>
             </div>
           </div>
 

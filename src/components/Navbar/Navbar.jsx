@@ -16,7 +16,7 @@ const Navbar = () => {
     <header
       className={`
         fixed z-[98] top-0 left-0 w-full 
-        px-20 flex justify-center gap-10 items-center  
+        px-10 flex justify-center gap-10 items-center  
         h-[90px]  text-white 
       `}
       style={{
@@ -26,7 +26,7 @@ const Navbar = () => {
       }}
     >
       <div
-        className="font-bold flex items-center gap-4 pt-2"
+        className="font-bold   pt-2"
         style={{ color: "#FFFFFF", fontSize: "25px", height: "fit-content" }}
       >
         <img

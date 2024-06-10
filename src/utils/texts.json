@@ -11,7 +11,7 @@
         "item2": "Resources",
         "link3": "/#depoimentos",
         "item3": "Testimonials",
-        "button": "COMMUNITY"
+        "button": "CONTACT US"
         
     }, 
     "section-two": { 
@@ -19,8 +19,8 @@
         "title": "Innovating the Future with ",
         "title2": "Intelligent Solutions.",
         "body": "We are pioneers in integrating artificial intelligence with digital marketing and infrastructure solutions.  ",
-        "bread": "FIGMA PLUGIN",
-        "button": "USE ON FIGMA",
+        "bread": "Clevers",
+        "button": "CONTACT US",
         "image": "https://res.cloudinary.com/db60chvpz/image/upload/v1714140733/zuurp7eifgk7k8ct4iml.png"
     },
     "section-three": {
@@ -61,9 +61,9 @@
     },
     "section-five": {
         "about": "",
-        "title": "MORE THAN 5,000 DESIGNERS ARE ALREADY USING IT",
+        "title": "",
         "subtitle": "Feel free to adjust or expand upon these texts to better fit your specific needs and brand voice!",
-        "breadcrum": "USE ON FIGMA",
+        "breadcrum": "CONTACT US",
         "body": "We are an independent IT consultancy, set up in 1991, operating across Europe with over 700 highly qualified people delivering for our clients every day. Since then, we have been working with clients from many sectors. Retail, engineering, pharmaceutical, real estate, transportation, utilities, financial, are some of them. We are Digital Transformation Specialists who strive to be a partner of choice.",
         "body2": "",
         "item1": {
@@ -108,11 +108,11 @@
     },
     "section-seven": {
         "footer": "",
-        "title": "Border-IA",
+        "title": "CleversComputer",
         "section-1": {
-            "delivery": "Warehouse Society, 234 Bahagia Ave Street PRBW 29281",
+            "delivery": "PLAÇA DE CAN SURIS S/N 08940 CORNELLÁ DE LLOBREGAT BARCELONA",
             "email": "info@warehouse.project",
-            "phone": "1-232-3434 (Main)"
+            "oficinas": "CANARIAS"
         },
         "section-2": {
             "item1": "",
