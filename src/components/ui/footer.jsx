@@ -27,6 +27,10 @@ function Footer() {
                   <span className="  transition duration-150 ease-in-out">
                     {texts["section-seven"]["section-1"].delivery}
                   </span>
+                  <span className="border mx-4"></span>
+                  <span className="  transition duration-150 ease-in-out">
+                    {texts["section-seven"]["section-1"].delivery}
+                  </span>
                 </li>
                 <li className="mb-3">
                   <span className=" transition duration-150 ease-in-out">
