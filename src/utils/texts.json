@@ -1,10 +1,9 @@
-
 {
     "section-one": {
         "header": "",
         "navitems": "",
         "title": "Border-IA",
-        "bloglink": "/#",
+        "bloglink": "https://blog.cleverscomputer.com",
         "link1": "/#sobre",
         "item1": "About",
         "link2": "/#recursos",
@@ -27,33 +26,32 @@
         "interfaceImage": "",
         "picture1": "https://res.cloudinary.com/db60chvpz/image/upload/v1717140787/zdia1lhttr2eabf8qoug.png",
         "picture2": "https://res.cloudinary.com/db60chvpz/image/upload/v1717140787/zdia1lhttr2eabf8qoug.png"
-        
     },
     "section-four": {
         "recursos": "",
-        "breadcrum" : "RESOURCES",
+        "breadcrum": "RESOURCES",
         "title": "What Makes ",
         "title2": "Us Different",
         "item1": {
-            "id":1,
+            "id": 1,
             "logo": "",
             "title": "AI-Powered Digital Marketing",
             "description": "Transform your marketing strategies with advanced AI algorithms that optimize campaigns, enhance customer engagement, and boost ROI."
         },
         "item2": {
-            "id":2,
+            "id": 2,
             "logo": "",
             "title": "Marketing Automation",
             "description": "Automate your marketing processes to save time, reduce errors, and improve efficiency. From lead generation to customer retention, we’ve got you covered."
         },
         "item3": {
-            "id":3,
+            "id": 3,
             "logo": "",
             "title": "Infrastructure Solutions",
             "description": "Build a resilient and scalable digital infrastructure with our expert services, ensuring your business is always ready to grow and adapt."
         },
         "item4": {
-            "id":4,
+            "id": 4,
             "logo": "",
             "title": "Data Analytics",
             "description": "Unlock the potential of your data with our comprehensive analytics services, providing insights that drive informed decision-making."
@@ -146,10 +144,6 @@
                 "name": "Border-IA",
                 "role": "Border-IA / Project"
             }
-            
         ]
     }
-        
-    
-
 }

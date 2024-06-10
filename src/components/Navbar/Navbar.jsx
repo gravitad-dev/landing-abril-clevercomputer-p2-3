@@ -32,7 +32,7 @@ const Navbar = () => {
         <img
           src="https://res.cloudinary.com/db60chvpz/image/upload/v1717141705/xmmqv1s6b0uuozbwyr5o.png"
           alt="logo"
-          width={270}
+          className="h-[50px]"
         />
       </div>
 
