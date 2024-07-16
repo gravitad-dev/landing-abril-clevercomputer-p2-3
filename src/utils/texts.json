@@ -5,21 +5,21 @@
         "title": "Border-IA",
         "bloglink": "https://blog.cleverscomputer.com",
         "link1": "/#sobre",
-        "item1": "About",
+        "item1": "Nosotros",
         "link2": "/#recursos",
-        "item2": "Resources",
+        "item2": "Recursos",
         "link3": "/#depoimentos",
-        "item3": "Testimonials",
-        "button": "CONTACT US"
+        "item3": "Testimonios",
+        "button": "CONTACTAR"
         
     }, 
     "section-two": { 
         "hero": "",
-        "title": "Innovating the Future with ",
-        "title2": "Intelligent Solutions.",
-        "body": "We are pioneers in integrating artificial intelligence with digital marketing and infrastructure solutions.  ",
-        "bread": "Clevers",
-        "button": "CONTACT US",
+        "title": "Innovando el futuro con  ",
+        "title2": "soluciones inteligentes.",
+        "body": "Somos pioneros en integrar inteligencia artificial con soluciones de infraestructura y marketing digital.",
+        "bread": "ClEVERS",
+        "button": "CONTÁCTANOS",
         "image": "https://res.cloudinary.com/db60chvpz/image/upload/v1714140733/zuurp7eifgk7k8ct4iml.png"
     },
     "section-three": {
@@ -29,39 +29,39 @@
     },
     "section-four": {
         "recursos": "",
-        "breadcrum": "RESOURCES",
-        "title": "What Makes ",
-        "title2": "Us Different",
+        "breadcrum": "RECURSOS",
+        "title": "¿Qué nos diferencia? ",
+        "title2": "",
         "item1": {
             "id": 1,
             "logo": "",
-            "title": "AI-Powered Digital Marketing",
-            "description": "Transform your marketing strategies with advanced AI algorithms that optimize campaigns, enhance customer engagement, and boost ROI."
+            "title": "Marketing digital impulsado por IA",
+            "description": "transforme sus estrategias de marketing con algoritmos avanzados de IA que optimizan las campañas, mejoran la participación del cliente y aumentan el retorno de la inversión."
         },
         "item2": {
             "id": 2,
             "logo": "",
-            "title": "Marketing Automation",
-            "description": "Automate your marketing processes to save time, reduce errors, and improve efficiency. From lead generation to customer retention, we’ve got you covered."
+            "title": "Automatización de marketing",
+            "description": "automatice sus procesos de marketing para ahorrar tiempo, reducir errores y mejorar la eficiencia. Desde la generación de leads hasta la retención de clientes, lo tenemos cubierto."
         },
         "item3": {
             "id": 3,
             "logo": "",
-            "title": "Infrastructure Solutions",
-            "description": "Build a resilient and scalable digital infrastructure with our expert services, ensuring your business is always ready to grow and adapt."
+            "title": "Soluciones de infraestructura",
+            "description": "cree una infraestructura digital resistente y escalable con nuestros servicios expertos, garantizando que su negocio esté siempre listo para crecer y adaptarse."
         },
         "item4": {
             "id": 4,
             "logo": "",
-            "title": "Data Analytics",
-            "description": "Unlock the potential of your data with our comprehensive analytics services, providing insights that drive informed decision-making."
+            "title": "Análisis de datos",
+            "description": "libere el potencial de sus datos con nuestros servicios de análisis integrales, que brindan información que impulsa la toma de decisiones informada."
         }
     },
     "section-five": {
         "about": "",
         "title": "",
-        "subtitle": "Feel free to adjust or expand upon these texts to better fit your specific needs and brand voice!",
-        "breadcrum": "CONTACT US",
+        "subtitle": "No dude en adaptar o ampliar estos textos para que se ajusten mejor a sus necesidades específicas y a la voz de su marca!",
+        "breadcrum": "CONTACTO",
         "body": "We are an independent IT consultancy, set up in 1991, operating across Europe with over 700 highly qualified people delivering for our clients every day. Since then, we have been working with clients from many sectors. Retail, engineering, pharmaceutical, real estate, transportation, utilities, financial, are some of them. We are Digital Transformation Specialists who strive to be a partner of choice.",
         "body2": "",
         "item1": {
@@ -136,7 +136,7 @@
     },
     "section-eight": {
         "projects": "",
-        "title": "Our Projects",
+        "title": "Nuestros Proyectos",
         "body": [
             {
                 "id": 1,
