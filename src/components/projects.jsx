@@ -15,9 +15,9 @@ function Projects() {
       </div>
 
       {/* Members */}
-      <section className="flex flex-between gap-20 justify-center">
+      <section className="flex flex-between gap-20 justify-center ">
         {texts["section-eight"].body.map((project) => (
-          <div key={project.id}>
+          <div key={project.id} className="bg-[#18181B] rounded-md p-6">
             <div
               className="rounded"
               style={{
@@ -27,12 +27,8 @@ function Projects() {
             >
               <img
                 src={project.picture}
+                className="rounded-md max-h-[340px] w-full object-cover"
                 alt="projectImg"
-                style={{
-                  objectFit: "cover",
-                  width: "100%",
-                  height: "100%",
-                }}
               />
             </div>
             <div className="text-center">
@@ -42,7 +38,9 @@ function Projects() {
               >
                 {project.name}
               </h1>
-              <p style={{ color: "white" }}>{project.role}</p>
+              <p style={{ color: "white" }} className="lg:px-10">
+                {project.role}
+              </p>
             </div>
           </div>
         ))}

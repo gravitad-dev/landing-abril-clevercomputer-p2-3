@@ -5,11 +5,11 @@
     "title": "Border-IA",
     "bloglink": "https://blog.cleverscomputer.com",
     "link1": "/#sobre",
-    "item1": "Nosotros",
+    "item1": "Inicio",
     "link2": "/#recursos",
-    "item2": "Recursos",
+    "item2": "Nosotros",
     "link3": "/#depoimentos",
-    "item3": "Testimonios",
+    "item3": "Innovación",
     "button": "CONTÁCTANOS"
   },
   "section-two": {
@@ -59,7 +59,7 @@
   "section-five": {
     "about": "",
     "title": "",
-    "subtitle": "No dude en adaptar o ampliar estos textos para que se ajusten mejor a sus necesidades específicas y a la voz de su marca!",
+    "subtitle": "Soluciones inteligentes que transforman tu mundo",
     "breadcrum": "CONTÁCTANOS",
     "body": "We are an independent IT consultancy, set up in 1991, operating across Europe with over 700 highly qualified people delivering for our clients every day. Since then, we have been working with clients from many sectors. Retail, engineering, pharmaceutical, real estate, transportation, utilities, financial, are some of them. We are Digital Transformation Specialists who strive to be a partner of choice.",
     "body2": "",
@@ -139,9 +139,9 @@
     "body": [
       {
         "id": 1,
-        "picture": "https://res.cloudinary.com/db60chvpz/image/upload/v1714510858/oljeuykijp9ev6hpmgi2.png",
+        "picture": "https://res.cloudinary.com/db60chvpz/image/upload/v1717140787/zdia1lhttr2eabf8qoug.png",
         "name": "Border-IA",
-        "role": "Border-IA / Project"
+        "role": "Innovamos el futuro integrando inteligencia artificial con soluciones de infraestructura y marketing digital, optimizando estrategias y mejorando la eficiencia para impulsar el crecimiento de su negocio."
       }
     ]
   },
